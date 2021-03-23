@@ -16,6 +16,7 @@ gem "webpacker", "~> 5.0"
 # gem 'image_processing', '~> 1.2'
 
 # --- App specific gems
+gem "bootstrap"
 gem "bootstrap-email"
 gem "cancancan"
 gem "cocoon"
