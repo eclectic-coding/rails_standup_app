@@ -43,7 +43,7 @@ group :development, :test do
   gem "bullet"
   gem "byebug", platforms: %i[mri mingw x64_mingw]
   gem "capybara"
-  gem "factory_bot_rails", "~> 4.0"
+  gem "factory_bot_rails", "~> 6.0"
   gem "faker"
   gem "rails-controller-testing"
   gem "rspec-rails"
